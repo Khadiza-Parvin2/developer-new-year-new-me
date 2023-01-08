@@ -77,7 +77,83 @@ main {
     font-weight: 800;
     font-size: 30px;
     color: #151414;
+    margin-bottom: 50px;
+    margin-top: 214px;
 }
-.plans-container{
+.plan-container{
+    display: flex;
     
+}
+
+.plans-title{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #151414;
+}
+.plan{
+    margin: 0px 87px 136px 230px;
+}
+.plan2{
+    margin: 0px 87px 136px 87px;
+}
+.plan3{
+    margin: 0px 229px 136px 87px;
+}
+.icons{
+    margin: 56px 130px 0px 130px;
+}
+.plans-description{
+    margin: 0px 87px 136px 100px;
+}
+.btn-primary2{
+    color: #005FAC;
+    margin: 0 230px 166px 294px;
+    padding: 20px;
+    border-color:#005FAC; ;
+    border-radius: 5px;
+}
+.contact-title{
+    font-weight: 700;
+    font-size: 40px;
+    margin: 140px 847px 24px 294px;
+
+
+}
+.contact-details{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.gradient-img{
+    margin: 0 250px;
+    
+}
+/* footer */
+.below-section{
+    display: flex;
+    background-color: #151414;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    text-align: left;
+    margin: 130px 331px 130px 230;
+    
+}
+.below-section input[type="email"]
+{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+.section-details{
+    color: #F8F8F8;
+}
+.form{
+    text-align: left;
+    margin: 130px 431px 31px 331;
 }
